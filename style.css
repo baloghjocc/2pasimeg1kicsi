@@ -1,0 +1,41 @@
+body header{
+  border-bottom: 1 px solid black;
+}
+main{
+
+margin: auto!important;
+background-color: white;
+}
+body{
+background-color: purple;
+}
+/*
+nav {
+  background-color: rgb(251, 251, 251);
+}
+
+nav li {
+  list-style-type: none;
+}          F
+
+body h1 {
+  text-align: center;
+}
+footer {
+  text-align: center;
+}
+EztMIND BOOTSTRAPPEL!
+tr {
+color: white;
+}
+th {
+font-weight: bold;
+background-color: black;
+color:white;
+}
+.grey {
+background-color: grey;
+}
+.black {
+background-color: black;
+}*/
